@@ -1,0 +1,6 @@
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\bin\Debug\TCP_Serwer.exe.config
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\bin\Debug\TCP_Serwer.exe
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\bin\Debug\TCP_Serwer.pdb
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\obj\Debug\TCP_Serwer.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\obj\Debug\TCP_Serwer.exe
+C:\Users\fedor\source\repos\TCP_Serwer\TCP_Serwer\obj\Debug\TCP_Serwer.pdb

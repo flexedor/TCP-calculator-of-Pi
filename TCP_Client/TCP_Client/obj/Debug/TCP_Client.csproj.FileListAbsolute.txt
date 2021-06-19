@@ -1,0 +1,6 @@
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe.config
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.exe
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\bin\Debug\TCP_Client.pdb
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.csprojAssemblyReference.cache
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.exe
+C:\Users\fedor\source\repos\TCP_Client\TCP_Client\obj\Debug\TCP_Client.pdb
